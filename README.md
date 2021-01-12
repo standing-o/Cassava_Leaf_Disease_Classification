@@ -1,2 +1,2 @@
-# Cassava_Leaf_Disease_Classification
-Leaf disease classification on kaggle
+# Cassava Leaf Disease Classification (20200110 ~ 20200126)
+- Leaf disease classification on kaggle
