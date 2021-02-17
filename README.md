@@ -6,7 +6,7 @@
 ### Individual Project for Data Analysis Club
 [[Report]](https://github.com/OH-Seoyoung/Cassava_Leaf_Disease_Classification/blob/master/Mid_report.pdf) | [[Presentation]](https://github.com/OH-Seoyoung/Cassava_Leaf_Disease_Classification/blob/master/Presentation.pdf)
 
-## Competition : [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview)
+### Competition : [Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/overview)
 
 ## Reference
 ```
