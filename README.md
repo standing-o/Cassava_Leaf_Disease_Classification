@@ -2,7 +2,7 @@
 - This competition aims to classify each cassava image into 5 category indicating four disease and healthy leaf.
 - Segmentation : Erosion, Dilation
 - Vanilla CNN, EfficientNet
-- Jan. 10, 2020 ~ Jan. 26, 2020
+- Jan. 10, 2021 ~ Jan. 26, 2021
 
 ### Individual Project for Data Analysis Club
 | [Report](https://github.com/OH-Seoyoung/Cassava_Leaf_Disease_Classification/blob/master/Mid_report.pdf) | [Presentation](https://github.com/OH-Seoyoung/Cassava_Leaf_Disease_Classification/blob/master/Presentation.pdf) |
